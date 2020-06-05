@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75c17c71e2984e70687a83995878088d",
+    "revision": "29727067a91441726c01a4271d6fc3cb",
     "url": "/brawlVK/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brawlVK/static/js/2.11841a1c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3891af9cd244b4193dbb",
-    "url": "/brawlVK/static/js/main.05f0fdf5.chunk.js"
+    "revision": "3cd733678898b756a599",
+    "url": "/brawlVK/static/js/main.bc8f2789.chunk.js"
   },
   {
     "revision": "c44a453262ef669b9772",
