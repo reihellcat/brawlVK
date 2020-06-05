@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/brawlVK/static/js/main.a5a91f69.chunk.js",
+    "main.js.map": "/brawlVK/static/js/main.a5a91f69.chunk.js.map",
+    "runtime-main.js": "/brawlVK/static/js/runtime-main.a08d59e9.js",
+    "runtime-main.js.map": "/brawlVK/static/js/runtime-main.a08d59e9.js.map",
+    "static/css/2.86df01db.chunk.css": "/brawlVK/static/css/2.86df01db.chunk.css",
+    "static/js/2.a64e185b.chunk.js": "/brawlVK/static/js/2.a64e185b.chunk.js",
+    "static/js/2.a64e185b.chunk.js.map": "/brawlVK/static/js/2.a64e185b.chunk.js.map",
+    "index.html": "/brawlVK/index.html",
+    "precache-manifest.ae41b8c91f3dfcb34991016085e9c60c.js": "/brawlVK/precache-manifest.ae41b8c91f3dfcb34991016085e9c60c.js",
+    "service-worker.js": "/brawlVK/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/brawlVK/static/css/2.86df01db.chunk.css.map",
+    "static/js/2.a64e185b.chunk.js.LICENSE.txt": "/brawlVK/static/js/2.a64e185b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a08d59e9.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.a64e185b.chunk.js",
+    "static/js/main.a5a91f69.chunk.js"
+  ]
+}
